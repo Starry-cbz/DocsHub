@@ -1,0 +1,9 @@
+{
+  "title": "DocsHub",
+  "description": "A modern documentation hub built with React and Next.js",
+  "keywords": ["documentation", "react", "nextjs", "markdown"],
+  "author": "DocsHub Team",
+  "ogImage": "/og-image.png",
+  "twitterHandle": "@docshub"
+}
+
